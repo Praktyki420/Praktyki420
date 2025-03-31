@@ -1,4 +1,4 @@
-##To jest konto github założone na potrzebe praktyk 
+To jest konto github założone na potrzebe praktyk 
 -Jakub Hutek
 
 <!--
