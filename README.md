@@ -1,5 +1,5 @@
 To jest konto github założone na potrzebe praktyk 
--Jakub Hutek
+
 
 <!--
 **Praktyki420/Praktyki420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
